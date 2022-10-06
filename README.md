@@ -1,10 +1,10 @@
 - 👋 Oi, Eu sou wesley o amigo da vizinhança!
-Estudando Back-End % Front-End!#SENAI
+- Estudando Back-End & Front-End!#SENAI
 
 <div>
-  <a href="https://beacons.ai/Wesley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wesley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://beacons.ai/wesleybartowski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleybartowski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleybartowski&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
